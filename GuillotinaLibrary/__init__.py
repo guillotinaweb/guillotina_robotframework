@@ -23,5 +23,5 @@ class GuillotinaLibrary:
         """
         pass
 
-    def my_keyword(self, my_first_parameter):
-        logger.console("my_keyword")
+    def start_guillotina(self, my_first_parameter):
+        logger.console("Start Guillotina")
