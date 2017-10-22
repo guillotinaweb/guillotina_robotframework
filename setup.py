@@ -16,7 +16,7 @@ setup(
     long_description=long_description,
     classifiers=[
         'Development Status :: 3 - Alpha',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: BSD License',
         'Environment :: Web Environment',
         'Framework :: Robot Framework',
         'Programming Language :: Python :: 3.6',
@@ -26,8 +26,8 @@ setup(
     keywords='robotframework guillotina',
     author='Timo Stollenwerk & Ramon Navarro Bosch',
     author_email='stollenwerk@kitconcept.com',
-    url='https://kitconcept.com',
-    license='Apache License 2.0',
+    url='https://github.com/guillotinaweb/robotframework-guillotina',
+    license='BSD',
     packages=find_packages(
         exclude=['ez_setup', 'examples', 'tests']
     ),
